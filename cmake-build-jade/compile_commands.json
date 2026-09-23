@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/seanchang/projects/C++/data_parsing/cmake-build-jade",
+  "command": "/usr/bin/c++  -I/Users/seanchang/projects/jade-ide/include -g -g -std=gnu++17 -arch arm64 -o CMakeFiles/engine.dir/engine.cpp.o -c /Users/seanchang/projects/C++/data_parsing/engine.cpp",
+  "file": "/Users/seanchang/projects/C++/data_parsing/engine.cpp",
+  "output": "CMakeFiles/engine.dir/engine.cpp.o"
+}
+]
