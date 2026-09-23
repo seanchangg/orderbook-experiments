@@ -1,6 +1,8 @@
 *.bin
- cmake-build-*/
- .jade/
- array/main
- ordered_map/main
- *.csv
+cmake-build-*/
+.jade/
+array/main
+ordered_map/main
+*.csv
+*.md
+.reconstruct.cpp

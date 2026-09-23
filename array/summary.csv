@@ -1,3 +1,0 @@
-name,samples,mean_ns,p50_ns,p90_ns,p99_ns,p999_ns,max_ns
-Cold bench,10000,517.3,383,959,3071,7679,87375
-Warm bench,10000,91.5,87,127,223,1407,21084
